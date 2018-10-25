@@ -1,0 +1,120 @@
+PolitiFact_Fake_70-Webpage.json CONSPIRACY-PSEUDOSCIENCE
+PolitiFact_Fake_88-Webpage.json SATIRE
+PolitiFact_Fake_11-Webpage.json NO SOURCE
+PolitiFact_Fake_75-Webpage.json NO SOURCE
+PolitiFact_Fake_116-Webpage.json Sources Pending Review
+PolitiFact_Fake_10-Webpage.json Sources Pending Review
+PolitiFact_Fake_97-Webpage.json Sources Pending Review
+PolitiFact_Fake_112-Webpage.json Sources Pending Review
+PolitiFact_Fake_86-Webpage.json LEFT BIAS
+PolitiFact_Fake_87-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_96-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_33-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_114-Webpage.json SATIRE
+PolitiFact_Fake_53-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_64-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_27-Webpage.json NO SOURCE
+PolitiFact_Fake_43-Webpage.json SATIRE
+PolitiFact_Fake_69-Webpage.json NO SOURCE
+PolitiFact_Fake_105-Webpage.json Sources Pending Review
+PolitiFact_Fake_24-Webpage.json Sources Pending Review
+PolitiFact_Fake_29-Webpage.json Sources Pending Review
+PolitiFact_Fake_84-Webpage.json Sources Pending Review
+PolitiFact_Fake_30-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_115-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_58-Webpage.json CONSPIRACY-PSEUDOSCIENCE
+PolitiFact_Fake_16-Webpage.json Sources Pending Review
+PolitiFact_Fake_41-Webpage.json NO SOURCE
+PolitiFact_Fake_13-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_34-Webpage.json SATIRE
+PolitiFact_Fake_67-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_93-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_37-Webpage.json Sources Pending Review
+PolitiFact_Fake_110-Webpage.json SATIRE
+PolitiFact_Fake_85-Webpage.json Sources Pending Review
+PolitiFact_Fake_47-Webpage.json SATIRE
+PolitiFact_Fake_99-Webpage.json LEFT-CENTER BIAS
+PolitiFact_Fake_60-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_94-Webpage.json NO SOURCE
+PolitiFact_Fake_95-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_106-Webpage.json SATIRE
+PolitiFact_Fake_59-Webpage.json SATIRE
+PolitiFact_Fake_18-Webpage.json NO SOURCE
+PolitiFact_Fake_40-Webpage.json SATIRE
+PolitiFact_Fake_63-Webpage.json Sources Pending Review
+PolitiFact_Fake_56-Webpage.json NO SOURCE
+PolitiFact_Fake_66-Webpage.json SATIRE
+PolitiFact_Fake_62-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_74-Webpage.json SATIRE
+PolitiFact_Fake_103-Webpage.json Sources Pending Review
+PolitiFact_Fake_45-Webpage.json NO SOURCE
+PolitiFact_Fake_80-Webpage.json RIGHT BIAS
+PolitiFact_Fake_50-Webpage.json SATIRE
+PolitiFact_Fake_6-Webpage.json NO SOURCE
+PolitiFact_Fake_61-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_73-Webpage.json NO SOURCE
+PolitiFact_Fake_109-Webpage.json RIGHT BIAS
+PolitiFact_Fake_31-Webpage.json NO SOURCE
+PolitiFact_Fake_35-Webpage.json NO SOURCE
+PolitiFact_Fake_57-Webpage.json NO SOURCE
+PolitiFact_Fake_44-Webpage.json SATIRE
+PolitiFact_Fake_39-Webpage.json Sources Pending Review
+PolitiFact_Fake_111-Webpage.json Sources Pending Review
+PolitiFact_Fake_71-Webpage.json NO SOURCE
+PolitiFact_Fake_9-Webpage.json Sources Pending Review
+PolitiFact_Fake_52-Webpage.json Sources Pending Review
+PolitiFact_Fake_2-Webpage.json Sources Pending Review
+PolitiFact_Fake_51-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_72-Webpage.json NO SOURCE
+PolitiFact_Fake_104-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_98-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_23-Webpage.json NO SOURCE
+PolitiFact_Fake_83-Webpage.json SATIRE
+PolitiFact_Fake_32-Webpage.json NO SOURCE
+PolitiFact_Fake_55-Webpage.json NO SOURCE
+PolitiFact_Fake_28-Webpage.json NO SOURCE
+PolitiFact_Fake_102-Webpage.json NO SOURCE
+PolitiFact_Fake_12-Webpage.json NO SOURCE
+PolitiFact_Fake_25-Webpage.json NO SOURCE
+PolitiFact_Fake_113-Webpage.json Sources Pending Review
+PolitiFact_Fake_68-Webpage.json SATIRE
+PolitiFact_Fake_65-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_101-Webpage.json NO SOURCE
+PolitiFact_Fake_48-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_90-Webpage.json Sources Pending Review
+PolitiFact_Fake_119-Webpage.json LEFT-CENTER BIAS
+PolitiFact_Fake_15-Webpage.json Sources Pending Review
+PolitiFact_Fake_107-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_82-Webpage.json Sources Pending Review
+PolitiFact_Fake_77-Webpage.json NO SOURCE
+PolitiFact_Fake_78-Webpage.json Sources Pending Review
+PolitiFact_Fake_54-Webpage.json SATIRE
+PolitiFact_Fake_17-Webpage.json Sources Pending Review
+PolitiFact_Fake_36-Webpage.json NO SOURCE
+PolitiFact_Fake_100-Webpage.json RIGHT BIAS
+PolitiFact_Fake_76-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_92-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_117-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_49-Webpage.json Sources Pending Review
+PolitiFact_Fake_4-Webpage.json LEFT-CENTER BIAS
+PolitiFact_Fake_1-Webpage.json Sources Pending Review
+PolitiFact_Fake_14-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_19-Webpage.json LEFT-CENTER BIAS
+PolitiFact_Fake_22-Webpage.json Sources Pending Review
+PolitiFact_Fake_26-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_7-Webpage.json NO SOURCE
+PolitiFact_Fake_38-Webpage.json Sources Pending Review
+PolitiFact_Fake_91-Webpage.json LEFT-CENTER BIAS
+PolitiFact_Fake_81-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_89-Webpage.json RIGHT BIAS
+PolitiFact_Fake_46-Webpage.json SATIRE
+PolitiFact_Fake_108-Webpage.json SATIRE
+PolitiFact_Fake_3-Webpage.json SATIRE
+PolitiFact_Fake_20-Webpage.json NO SOURCE
+PolitiFact_Fake_118-Webpage.json Sources Pending Review
+PolitiFact_Fake_120-Webpage.json Sources Pending Review
+PolitiFact_Fake_79-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_8-Webpage.json Sources Pending Review
+PolitiFact_Fake_5-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Fake_21-Webpage.json SATIRE
+PolitiFact_Fake_42-Webpage.json NO SOURCE

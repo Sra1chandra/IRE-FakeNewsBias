@@ -1,0 +1,120 @@
+PolitiFact_Real_38-Webpage.json LEFT BIAS
+PolitiFact_Real_77-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_45-Webpage.json RIGHT BIAS
+PolitiFact_Real_27-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_36-Webpage.json LEFT BIAS
+PolitiFact_Real_37-Webpage.json LEFT BIAS
+PolitiFact_Real_26-Webpage.json RIGHT BIAS
+PolitiFact_Real_83-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_42-Webpage.json RIGHT BIAS
+PolitiFact_Real_43-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_64-Webpage.json RIGHT BIAS
+PolitiFact_Real_1-Webpage.json Sources Pending Review
+PolitiFact_Real_101-Webpage.json Sources Pending Review
+PolitiFact_Real_103-Webpage.json RIGHT BIAS
+PolitiFact_Real_100-Webpage.json LEFT BIAS
+PolitiFact_Real_97-Webpage.json RIGHT BIAS
+PolitiFact_Real_78-Webpage.json LEFT BIAS
+PolitiFact_Real_17-Webpage.json RIGHT BIAS
+PolitiFact_Real_94-Webpage.json LEFT BIAS
+PolitiFact_Real_99-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_52-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_34-Webpage.json LEFT BIAS
+PolitiFact_Real_75-Webpage.json LEFT BIAS
+PolitiFact_Real_72-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_53-Webpage.json Sources Pending Review
+PolitiFact_Real_66-Webpage.json RIGHT BIAS
+PolitiFact_Real_6-Webpage.json Sources Pending Review
+PolitiFact_Real_80-Webpage.json LEFT BIAS
+PolitiFact_Real_7-Webpage.json Sources Pending Review
+PolitiFact_Real_110-Webpage.json RIGHT BIAS
+PolitiFact_Real_59-Webpage.json LEFT BIAS
+PolitiFact_Real_84-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_107-Webpage.json RIGHT BIAS
+PolitiFact_Real_23-Webpage.json Sources Pending Review
+PolitiFact_Real_87-Webpage.json Sources Pending Review
+PolitiFact_Real_10-Webpage.json Sources Pending Review
+PolitiFact_Real_35-Webpage.json Sources Pending Review
+PolitiFact_Real_62-Webpage.json Sources Pending Review
+PolitiFact_Real_11-Webpage.json RIGHT BIAS
+PolitiFact_Real_29-Webpage.json RIGHT BIAS
+PolitiFact_Real_24-Webpage.json LEFT-CENTER BIAS
+PolitiFact_Real_25-Webpage.json Sources Pending Review
+PolitiFact_Real_9-Webpage.json Sources Pending Review
+PolitiFact_Real_76-Webpage.json RIGHT BIAS
+PolitiFact_Real_56-Webpage.json RIGHT BIAS
+PolitiFact_Real_12-Webpage.json RIGHT BIAS
+PolitiFact_Real_46-Webpage.json RIGHT BIAS
+PolitiFact_Real_30-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_32-Webpage.json Sources Pending Review
+PolitiFact_Real_104-Webpage.json RIGHT BIAS
+PolitiFact_Real_116-Webpage.json RIGHT BIAS
+PolitiFact_Real_70-Webpage.json LEFT BIAS
+PolitiFact_Real_51-Webpage.json LEFT BIAS
+PolitiFact_Real_81-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_50-Webpage.json LEFT BIAS
+PolitiFact_Real_73-Webpage.json Sources Pending Review
+PolitiFact_Real_85-Webpage.json RIGHT BIAS
+PolitiFact_Real_120-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_102-Webpage.json RIGHT BIAS
+PolitiFact_Real_89-Webpage.json LEFT BIAS
+PolitiFact_Real_61-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_54-Webpage.json Sources Pending Review
+PolitiFact_Real_109-Webpage.json LEFT BIAS
+PolitiFact_Real_44-Webpage.json RIGHT BIAS
+PolitiFact_Real_118-Webpage.json RIGHT BIAS
+PolitiFact_Real_13-Webpage.json Sources Pending Review
+PolitiFact_Real_48-Webpage.json LEFT BIAS
+PolitiFact_Real_117-Webpage.json Sources Pending Review
+PolitiFact_Real_67-Webpage.json LEFT BIAS
+PolitiFact_Real_63-Webpage.json LEFT BIAS
+PolitiFact_Real_71-Webpage.json Sources Pending Review
+PolitiFact_Real_28-Webpage.json RIGHT BIAS
+PolitiFact_Real_93-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_33-Webpage.json RIGHT BIAS
+PolitiFact_Real_82-Webpage.json RIGHT BIAS
+PolitiFact_Real_2-Webpage.json Sources Pending Review
+PolitiFact_Real_111-Webpage.json Sources Pending Review
+PolitiFact_Real_98-Webpage.json LEFT BIAS
+PolitiFact_Real_60-Webpage.json RIGHT BIAS
+PolitiFact_Real_58-Webpage.json RIGHT BIAS
+PolitiFact_Real_47-Webpage.json LEFT BIAS
+PolitiFact_Real_95-Webpage.json RIGHT BIAS
+PolitiFact_Real_79-Webpage.json RIGHT BIAS
+PolitiFact_Real_4-Webpage.json Sources Pending Review
+PolitiFact_Real_20-Webpage.json RIGHT BIAS
+PolitiFact_Real_16-Webpage.json RIGHT BIAS
+PolitiFact_Real_119-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_108-Webpage.json LEFT BIAS
+PolitiFact_Real_112-Webpage.json Sources Pending Review
+PolitiFact_Real_18-Webpage.json RIGHT BIAS
+PolitiFact_Real_106-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_113-Webpage.json RIGHT BIAS
+PolitiFact_Real_8-Webpage.json Sources Pending Review
+PolitiFact_Real_86-Webpage.json Sources Pending Review
+PolitiFact_Real_41-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_22-Webpage.json RIGHT BIAS
+PolitiFact_Real_5-Webpage.json Sources Pending Review
+PolitiFact_Real_55-Webpage.json RIGHT BIAS
+PolitiFact_Real_65-Webpage.json LEFT BIAS
+PolitiFact_Real_40-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_49-Webpage.json NO SOURCE
+PolitiFact_Real_68-Webpage.json LEFT BIAS
+PolitiFact_Real_92-Webpage.json RIGHT BIAS
+PolitiFact_Real_69-Webpage.json RIGHT BIAS
+PolitiFact_Real_96-Webpage.json Sources Pending Review
+PolitiFact_Real_15-Webpage.json Sources Pending Review
+PolitiFact_Real_115-Webpage.json RIGHT BIAS
+PolitiFact_Real_19-Webpage.json RIGHT BIAS
+PolitiFact_Real_114-Webpage.json RIGHT BIAS
+PolitiFact_Real_88-Webpage.json LEFT BIAS
+PolitiFact_Real_21-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_31-Webpage.json RIGHT BIAS
+PolitiFact_Real_57-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_39-Webpage.json QUESTIONABLE SOURCE
+PolitiFact_Real_105-Webpage.json RIGHT BIAS
+PolitiFact_Real_74-Webpage.json RIGHT BIAS
+PolitiFact_Real_90-Webpage.json LEFT-CENTER BIAS
+PolitiFact_Real_3-Webpage.json NO SOURCE
+PolitiFact_Real_14-Webpage.json RIGHT BIAS
+PolitiFact_Real_91-Webpage.json QUESTIONABLE SOURCE

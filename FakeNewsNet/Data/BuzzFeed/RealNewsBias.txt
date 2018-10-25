@@ -1,0 +1,91 @@
+BuzzFeed_Real_5-Webpage.json LEFT BIAS
+BuzzFeed_Real_31-Webpage.json RIGHT BIAS
+BuzzFeed_Real_65-Webpage.json RIGHT BIAS
+BuzzFeed_Real_71-Webpage.json LEFT BIAS
+BuzzFeed_Real_3-Webpage.json LEFT BIAS
+BuzzFeed_Real_41-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_64-Webpage.json LEFT BIAS
+BuzzFeed_Real_69-Webpage.json RIGHT BIAS
+BuzzFeed_Real_26-Webpage.json Sources Pending Review
+BuzzFeed_Real_7-Webpage.json LEFT BIAS
+BuzzFeed_Real_73-Webpage.json LEFT BIAS
+BuzzFeed_Real_50-Webpage.json LEFT BIAS
+BuzzFeed_Real_33-Webpage.json Sources Pending Review
+BuzzFeed_Real_34-Webpage.json LEFT BIAS
+BuzzFeed_Real_51-Webpage.json LEFT BIAS
+BuzzFeed_Real_24-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_58-Webpage.json Sources Pending Review
+BuzzFeed_Real_38-Webpage.json LEFT BIAS
+BuzzFeed_Real_39-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_16-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_6-Webpage.json RIGHT BIAS
+BuzzFeed_Real_61-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_20-Webpage.json RIGHT BIAS
+BuzzFeed_Real_67-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_66-Webpage.json LEFT BIAS
+BuzzFeed_Real_40-Webpage.json RIGHT BIAS
+BuzzFeed_Real_85-Webpage.json LEFT BIAS
+BuzzFeed_Real_30-Webpage.json RIGHT BIAS
+BuzzFeed_Real_88-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_54-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_76-Webpage.json Sources Pending Review
+BuzzFeed_Real_48-Webpage.json LEFT BIAS
+BuzzFeed_Real_59-Webpage.json RIGHT BIAS
+BuzzFeed_Real_77-Webpage.json RIGHT BIAS
+BuzzFeed_Real_36-Webpage.json Sources Pending Review
+BuzzFeed_Real_42-Webpage.json LEFT BIAS
+BuzzFeed_Real_52-Webpage.json RIGHT BIAS
+BuzzFeed_Real_53-Webpage.json Sources Pending Review
+BuzzFeed_Real_35-Webpage.json LEFT-CENTER BIAS
+BuzzFeed_Real_23-Webpage.json LEFT BIAS
+BuzzFeed_Real_90-Webpage.json Sources Pending Review
+BuzzFeed_Real_86-Webpage.json LEFT BIAS
+BuzzFeed_Real_56-Webpage.json LEFT-CENTER BIAS
+BuzzFeed_Real_8-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_29-Webpage.json RIGHT BIAS
+BuzzFeed_Real_12-Webpage.json RIGHT BIAS
+BuzzFeed_Real_9-Webpage.json LEFT BIAS
+BuzzFeed_Real_46-Webpage.json RIGHT BIAS
+BuzzFeed_Real_28-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_81-Webpage.json RIGHT BIAS
+BuzzFeed_Real_25-Webpage.json RIGHT BIAS
+BuzzFeed_Real_37-Webpage.json RIGHT BIAS
+BuzzFeed_Real_21-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_19-Webpage.json RIGHT BIAS
+BuzzFeed_Real_82-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_1-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_22-Webpage.json Sources Pending Review
+BuzzFeed_Real_87-Webpage.json RIGHT BIAS
+BuzzFeed_Real_49-Webpage.json RIGHT BIAS
+BuzzFeed_Real_83-Webpage.json RIGHT BIAS
+BuzzFeed_Real_2-Webpage.json LEFT BIAS
+BuzzFeed_Real_62-Webpage.json RIGHT BIAS
+BuzzFeed_Real_78-Webpage.json RIGHT BIAS
+BuzzFeed_Real_80-Webpage.json LEFT BIAS
+BuzzFeed_Real_68-Webpage.json RIGHT BIAS
+BuzzFeed_Real_74-Webpage.json Sources Pending Review
+BuzzFeed_Real_75-Webpage.json LEFT BIAS
+BuzzFeed_Real_45-Webpage.json LEFT BIAS
+BuzzFeed_Real_70-Webpage.json RIGHT BIAS
+BuzzFeed_Real_60-Webpage.json Sources Pending Review
+BuzzFeed_Real_57-Webpage.json LEFT BIAS
+BuzzFeed_Real_11-Webpage.json Sources Pending Review
+BuzzFeed_Real_27-Webpage.json RIGHT BIAS
+BuzzFeed_Real_14-Webpage.json Sources Pending Review
+BuzzFeed_Real_43-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_47-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_17-Webpage.json LEFT BIAS
+BuzzFeed_Real_4-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_44-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_91-Webpage.json RIGHT BIAS
+BuzzFeed_Real_63-Webpage.json Sources Pending Review
+BuzzFeed_Real_89-Webpage.json RIGHT BIAS
+BuzzFeed_Real_55-Webpage.json RIGHT BIAS
+BuzzFeed_Real_84-Webpage.json RIGHT BIAS
+BuzzFeed_Real_10-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_13-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_32-Webpage.json RIGHT BIAS
+BuzzFeed_Real_72-Webpage.json RIGHT BIAS
+BuzzFeed_Real_79-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_15-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Real_18-Webpage.json RIGHT BIAS

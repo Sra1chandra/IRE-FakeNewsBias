@@ -1,0 +1,92 @@
+BuzzFeed_Fake_26-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_51-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_10-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_89-Webpage.json Sources Pending Review
+BuzzFeed_Fake_84-Webpage.json Sources Pending Review
+BuzzFeed_Fake_57-Webpage.json Sources Pending Review
+BuzzFeed_Fake_56-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_70-Webpage.json Sources Pending Review
+BuzzFeed_Fake_8-Webpage.json RIGHT BIAS
+BuzzFeed_Fake_31-Webpage.json NO SOURCE
+BuzzFeed_Fake_7-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_40-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_64-Webpage.json Sources Pending Review
+BuzzFeed_Fake_46-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_39-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_78-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_69-Webpage.json Sources Pending Review
+BuzzFeed_Fake_1-Webpage.json Sources Pending Review
+BuzzFeed_Fake_47-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_4-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_72-Webpage.json RIGHT BIAS
+BuzzFeed_Fake_62-Webpage.json NO SOURCE
+BuzzFeed_Fake_63-Webpage.json Sources Pending Review
+BuzzFeed_Fake_87-Webpage.json Sources Pending Review
+BuzzFeed_Fake_30-Webpage.json NO SOURCE
+BuzzFeed_Fake_83-Webpage.json Sources Pending Review
+BuzzFeed_Fake_13-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_66-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_80-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_19-Webpage.json LEFT BIAS
+BuzzFeed_Fake_3-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_22-Webpage.json NO SOURCE
+BuzzFeed_Fake_76-Webpage.json Sources Pending Review
+BuzzFeed_Fake_18-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_15-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_34-Webpage.json NO SOURCE
+BuzzFeed_Fake_11-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_32-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_29-Webpage.json NO SOURCE
+BuzzFeed_Fake_12-Webpage.json Sources Pending Review
+BuzzFeed_Fake_79-Webpage.json Sources Pending Review
+BuzzFeed_Fake_42-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_35-Webpage.json LEFT BIAS
+BuzzFeed_Fake_52-Webpage.json NO SOURCE
+BuzzFeed_Fake_48-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_58-Webpage.json Sources Pending Review
+BuzzFeed_Fake_44-Webpage.json Sources Pending Review
+BuzzFeed_Fake_45-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_86-Webpage.json Sources Pending Review
+BuzzFeed_Fake_82-Webpage.json RIGHT BIAS
+BuzzFeed_Fake_75-Webpage.json Sources Pending Review
+BuzzFeed_Fake_6-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_5-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_50-Webpage.json LEFT BIAS
+BuzzFeed_Fake_38-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_67-Webpage.json Sources Pending Review
+BuzzFeed_Fake_21-Webpage.json RIGHT BIAS
+BuzzFeed_Fake_17-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_24-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_73-Webpage.json Sources Pending Review
+BuzzFeed_Fake_77-Webpage.json Sources Pending Review
+BuzzFeed_Fake_91-Webpage.json Sources Pending Review
+BuzzFeed_Fake_85-Webpage.json Sources Pending Review
+BuzzFeed_Fake_27-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_74-Webpage.json Sources Pending Review
+BuzzFeed_Fake_53-Webpage.json NO SOURCE
+BuzzFeed_Fake_65-Webpage.json Sources Pending Review
+BuzzFeed_Fake_20-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_36-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_33-Webpage.json Sources Pending Review
+BuzzFeed_Fake_23-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_49-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_25-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_28-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_81-Webpage.json Sources Pending Review
+BuzzFeed_Fake_55-Webpage.json Sources Pending Review
+BuzzFeed_Fake_41-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_37-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_71-Webpage.json RIGHT BIAS
+BuzzFeed_Fake_54-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_59-Webpage.json Sources Pending Review
+BuzzFeed_Fake_16-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_2-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_90-Webpage.json RIGHT BIAS
+BuzzFeed_Fake_43-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_60-Webpage.json Sources Pending Review
+BuzzFeed_Fake_61-Webpage.json Sources Pending Review
+BuzzFeed_Fake_88-Webpage.json Sources Pending Review
+BuzzFeed_Fake_14-Webpage.json QUESTIONABLE SOURCE
+BuzzFeed_Fake_68-Webpage.json Sources Pending Review
+BuzzFeed_Fake_9-Webpage.json QUESTIONABLE SOURCE
+
