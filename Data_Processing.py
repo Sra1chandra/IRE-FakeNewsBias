@@ -56,6 +56,7 @@ def main():
 
     # vocabulary size
     vocab_size = len(t.word_index) + 1
+    print vocab_size
 
     seq_length=1000
 
@@ -102,7 +103,7 @@ def main():
     # dump(t, open('tokenizer.pkl', 'wb'))
 
     model=load_model('model.h5')
-    print model.evaluate(X,Y)
+    print model.evaluate(X,y)
 
 if __name__ == '__main__':
     main()
