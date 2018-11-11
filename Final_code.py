@@ -7,7 +7,7 @@ from keras.models import Model,Sequential
 from keras.layers import Dense
 from keras.layers import LSTM, Input
 from keras.layers import Embedding
-from sklearn.model_selection import KFold
+from sklearn.model_selection import KFold,train_test_split
 from keras.models import load_model
 from keras.utils import to_categorical
 
@@ -56,21 +56,21 @@ def ProcessBiasLabel(Labels):
     FinalLabels=[]
     for label in Labels:
         if(label=="QUESTIONABLE SOURCE"):
-            FinalLabels.append([0,0,1,0])
+            FinalLabels.append([0,1,0,0,0,0,0,0])
         elif(label=="LEFT BIAS"):
-            FinalLabels.append([0,1,0,0])
+            FinalLabels.append([0,0,1,0,0,0,0,0])
         elif(label=="LEFT-CENTER BIAS"):
-            FinalLabels.append([0,1,1,0])
+            FinalLabels.append([0,0,0,1,0,0,0,0])
         elif(label=="RIGHT-CENTER BIAS"):
-            FinalLabels.append([1,0,0,0])
+            FinalLabels.append([0,0,0,0,1,0,0,0])
         elif(label=="SATIRE"):
-            FinalLabels.append([1,1,0,0])
+            FinalLabels.append([0,0,0,0,0,1,0,0])
         elif(label=="RIGHT BIAS"):
-            FinalLabels.append([1,0,1,0])
+            FinalLabels.append([0,0,0,0,0,0,1,0])
         elif(label=="CONSPIRACY-PSEUDOSCIENCE"):
-            FinalLabels.append([1,1,1,0])
+            FinalLabels.append([0,0,0,0,0,0,0,1])
         else:
-            FinalLabels.append([0,0,0,0])
+            FinalLabels.append([1,0,0,0,0,0,0,0])
 
     return FinalLabels
 
@@ -119,6 +119,8 @@ def main():
     out1=(np.array(Labels))
     # print out1
     out2=np.array(BiasLabels)
+    InputText, InputTest, out1, out1Test, out2, out2Test = train_test_split(InputText,out1,out2,test_size = 0.2)
+
 
     ##############################################################################################
 
@@ -163,35 +165,34 @@ def main():
     y1_layer=Dense(100, activation='relu')(x1_layer)
     y2_layer=Dense(100, activation='relu')(x2_layer)
     out_layer1 = Dense(1,activation='sigmoid', name="Real_output")(y1_layer)
-    out_layer2 = Dense(4,activation='softmax', name="Bias_output")(y2_layer)
+    out_layer2 = Dense(8,activation='softmax', name="Bias_output")(y2_layer)
     model = Model(inputs=inp,outputs=[out_layer1,out_layer2])
     losses = {
 	"Real_output": "binary_crossentropy",
 	"Bias_output": "categorical_crossentropy",
     }  
     model.compile(loss=losses, optimizer='adam', metrics=['accuracy'])
-    model.fit(InputText, [out1,out2], batch_size=4, validation_split=0.1, epochs=3)
-
-    # kfold = KFold(5, True, 1)
-    # max_accuracy=0
-    # for train, test in kfold.split(X):       
-    #     # fit model
-    #     model.fit(X[train], y[train], batch_size=16, validation_split=0.1, epochs=3)
-    #     score,accuracy = model.evaluate(X[test],y[test], batch_size=None, verbose=1)
-    #     if(accuracy>max_accuracy):
-    #         # save the model to file
-    #         model.save('model.h5')
-    #         max_accuracy=accuracy
-
-    #     print accuracy
+    #model.fit(InputText, [out1,out2], batch_size=16, validation_split=0.1, epochs=3)
+    kfold = KFold(5, True, 1)
+    max_accuracy=0
+    for train, test in kfold.split(InputText):       
+        # fit model
+        model.fit(InputText[train], [out1[train],out2[train]], batch_size=4, validation_split=0.1, epochs=3)
+        accuracy = np.mean( model.evaluate(InputText[test],[out1[test],out2[test]], batch_size=None, verbose=1))
+        if(accuracy>max_accuracy):
+            # save the model to file
+            model.save('model.h5')
+            max_accuracy=accuracy
     
-    # save the model to file
-    # model.save('model.h5')
+    print accuracy
+    #save the model to file
+    model.save('model.h5')
     # save the tokenizer
-    # dump(t, open('tokenizer.pkl', 'wb'))
-
-    # model=load_model('model.h5')
-    # print model.evaluate(X,Y)
+    #dump(t, open('tokenizer.pkl', 'wb'))
+    
+    model=load_model('model.h5')
+    print model.evaluate(InputTest,[out1Test,out2Test], batch_size=None, verbose=1)
+    #print model.evaluate(InputTest,[out1Test,out2Test]);
 
 if __name__ == '__main__':
     main()
